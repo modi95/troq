@@ -1,0 +1,7 @@
+Proposed method:
+	- Parse every word on the page.
+	- Save its translation if not available
+
+Proposed usage:
+	- Select a word / string
+	- Right click to translate

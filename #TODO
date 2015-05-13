@@ -5,3 +5,10 @@ Proposed method:
 Proposed usage:
 	- Select a word / string
 	- Right click to translate
+
+Why does this exist?
+	- Current methods are very intrusive
+	- Existing solutions are heavy and slow
+	- Reliable implementations are smaller features of a larger product
+	- Reading articles in a different language is a great way to learn a new language
+

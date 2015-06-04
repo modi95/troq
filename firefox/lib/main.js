@@ -14,4 +14,5 @@ var button = buttons.ActionButton({
 
 function handleClick(state) {
   tabs.open("https://www.mozilla.org/");
+  //to integrate with MS Translate
 }
